@@ -1,0 +1,6 @@
+NAME_FAMILY_STATUS,NAME_FAMILY_STATUS_INT
+Civil marriage,1
+Married,2
+Separated,3
+Single / not married,4
+Widow,5
